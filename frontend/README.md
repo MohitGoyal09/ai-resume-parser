@@ -1,12 +1,12 @@
-# DeepKalrity Resume Analyzer - Frontend
+#  Resume Analyzer - Frontend
 
-The frontend for DeepKalrity Resume Analyzer built with Next.js, TypeScript, and Tailwind CSS.
+The frontend for  Resume Analyzer built with Next.js, TypeScript, and Tailwind CSS.
 
 ![Frontend Screenshot](https://via.placeholder.com/800x400?text=Frontend+Screenshot)
 
 ## 🚀 Overview
 
-The frontend provides a modern, responsive user interface for the DeepKalrity Resume Analyzer. It allows users to upload resumes, view AI-powered analysis, and manage previously uploaded resumes through an intuitive interface.
+The frontend provides a modern, responsive user interface for the  Resume Analyzer. It allows users to upload resumes, view AI-powered analysis, and manage previously uploaded resumes through an intuitive interface.
 
 ## ✨ Features
 

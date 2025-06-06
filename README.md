@@ -1,4 +1,4 @@
-# DeepKalrity Resume Analyzer
+#  Resume Analyzer
 
 A modern web application for analyzing and managing resumes with AI-powered insights.
 
@@ -6,7 +6,7 @@ A modern web application for analyzing and managing resumes with AI-powered insi
 
 ## 🚀 Overview
 
-DeepKalrity Resume Analyzer is a comprehensive tool designed to streamline the resume review process. The application allows users to upload resumes, automatically extracts key information, and provides AI-powered analysis and insights. With a clean, modern interface, users can easily manage and review multiple resumes.
+Resume Analyzer is a comprehensive tool designed to streamline the resume review process. The application allows users to upload resumes, automatically extracts key information, and provides AI-powered analysis and insights. With a clean, modern interface, users can easily manage and review multiple resumes.
 
 ### Key Features
 
@@ -25,10 +25,10 @@ The project follows a modern client-server architecture:
 - **Database**: SQL database for resume storage and retrieval
 
 ```
-DeepKalrity/
-├── frontend/         # Next.js React application
-├── backend/          # FastAPI Python application
-└── README.md         # Project documentation
+ai-resume-parser/
+├── backend/         
+├── frontend/        
+└── README.md        
 ```
 
 ## 🛠️ Tech Stack
@@ -64,8 +64,8 @@ DeepKalrity/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/deepkalrity.git
-cd deepkalrity
+git clone https://github.com/MohitGoyal09/ai-resume-parser
+cd ai-resume-parser
 ```
 
 2. Set up the frontend (see [Frontend README](./frontend/README.md) for detailed instructions):
@@ -104,6 +104,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📞 Contact
 
-For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
