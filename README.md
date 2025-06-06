@@ -30,7 +30,8 @@ The project follows a modern client-server architecture:
 ```
 ai-resume-parser/
 ├── backend/         
-├── frontend/        
+├── frontend/
+├── sample/    
 └── README.md        
 ```
 ## Demo 
