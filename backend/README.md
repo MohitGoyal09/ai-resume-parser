@@ -1,12 +1,12 @@
-# DeepKalrity Resume Analyzer - Backend
+#  Resume Analyzer - Backend
 
-The backend API for DeepKalrity Resume Analyzer built with FastAPI, Python, and AI integration.
+The backend API for Resume Analyzer built with FastAPI, Python, and AI integration.
 
-![Backend Architecture](https://via.placeholder.com/800x400?text=Backend+Architecture)
+
 
 ## 🚀 Overview
 
-The backend provides a robust API for the DeepKalrity Resume Analyzer. It handles resume uploads, information extraction, AI-powered analysis, and data storage. Built with FastAPI, it offers high performance, automatic OpenAPI documentation, and strong typing through Pydantic.
+The backend provides a robust API for the  Resume Analyzer. It handles resume uploads, information extraction, AI-powered analysis, and data storage. Built with FastAPI, it offers high performance, automatic OpenAPI documentation, and strong typing through Pydantic.
 
 ## ✨ Features
 
@@ -26,38 +26,11 @@ The backend provides a robust API for the DeepKalrity Resume Analyzer. It handle
 - **SQLAlchemy**: SQL toolkit and Object-Relational Mapping
 - **Alembic**: Database migration tool
 - **PyPDF2/docx2txt**: PDF and DOCX parsing libraries
-- **LangChain/OpenAI**: AI integration for resume analysis
+- **LangChain**: AI integration for resume analysis
 - **Uvicorn**: ASGI server for running the application
 - **Python 3.9+**: Modern Python features
 
-## 📁 Project Structure
 
-```
-backend/
-├── app/                  # Main application package
-│   ├── api/              # API endpoints
-│   │   ├── v1/           # API version 1
-│   │   │   └── resumes/  # Resume-related endpoints
-│   │   │   └── ai/       # AI-related endpoints
-│   │   ├── core/         # Core application code
-│   │   │   ├── config.py # Configuration settings
-│   │   │   └── security.py # Security utilities
-│   │   ├── db/           # Database models and utilities
-│   │   │   ├── base.py   # Base models
-│   │   │   └── session.py # Database session management
-│   │   ├── models/       # SQLAlchemy models
-│   │   │   └── resume.py # Resume model
-│   │   ├── schemas/      # Pydantic schemas
-│   │   │   └── resume.py # Resume schemas
-│   │   ├── services/     # Business logic
-│   │   │   ├── resume.py # Resume processing service
-│   │   │   └── ai.py     # AI analysis service
-│   │   └── main.py       # Application entry point
-│   ├── alembic/          # Database migrations
-│   ├── tests/            # Test cases
-│   ├── requirements.txt  # Python dependencies
-│   └── README.md         # Documentation
-```
 
 ## 🚀 Getting Started
 
